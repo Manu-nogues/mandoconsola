@@ -1,0 +1,126 @@
+body {
+    display: flex;
+    height: 100vh;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+.size-pad {
+    width: 30vh;
+    height: 30vh;
+}
+
+.mando-izq {
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.mando-izq-superior {
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.mando-centro {
+    background-color: rgba(0, 0, 0, 0.9);
+    display: grid;
+    grid-template-rows: 30px 30px 30px 30px 4vh;
+    width: 15vw;
+    height: 15vw;
+    gap: 1vw;
+    color: red;
+    
+    
+}
+
+.fila {
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.mando-derecha {
+    background-color: tomato;
+}
+
+.container {
+    display: flex;
+}
+
+.mando-derecha-superior {
+    width: 30vh;
+    height: 15vh;
+    background-color: black;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mando-derecha-inferior {
+    width: 30vh;
+    height: 15vh;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.button {
+    width: 10vh;
+    height: 10vh;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15%;
+}
+
+.circle-button {
+    width: 8vh;
+    height: 8vh;
+    background-color: red;
+    border-radius: 100%;
+}
+
+.borde {
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    border: 0.9vw solid rgb(200, 198, 198);
+
+}
+.select{
+    background-color: rgb(0, 0, 0);
+    width: 30px;
+    height: 2px;
+    
+    
+}
+
+.start{
+    background-color: rgb(0, 0, 0);
+    width: 30px;
+    height: 2px;   
+}
+
+.cruceta1{
+    background-color: rgba(184, 141, 141, 0.9);
+    display: grid;
+    grid-template-columns:30px 30px;
+    width: 9vw;
+    height: 9vw;
+    justify-content: center;
+    
+    
+
+    
+}
