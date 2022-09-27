@@ -18,7 +18,7 @@ body {
     color: white;
     justify-content: center;
     align-items: center;
-    grid-template-columns:  1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr 2fr;
 
 }
@@ -120,122 +120,128 @@ body {
 
 
 
-.cruceta3{
-    width: 3vh;
-    height: 5vh;
-
-}
-.cruceta4{
+.cruceta3 {
     width: 3vh;
     height: 5vh;
 
 }
 
-.cruceta5{
+.cruceta4 {
+    width: 3vh;
+    height: 5vh;
+
+}
+
+.cruceta5 {
     width: 3vh;
     height: 5vh;
 }
-.cruceta6{
+
+.cruceta6 {
     width: 1vh;
     height: 1vh;
 }
-.cruceta7{
+
+.cruceta7 {
     width: 5vh;
     height: 3vh;
 }
 
-.cruceta9{
+.cruceta9 {
     width: 3vh;
     height: 5vh;
-    
+
 }
-.cruceta10{
+
+.cruceta10 {
     width: 3vh;
     height: 5vh;
-    background: rgb(0,0,0);
-    background: -moz-linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(88,86,86,1) 35%, rgba(0,0,0,1) 62%);
-    background: -webkit-linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(88,86,86,1) 35%, rgba(0,0,0,1) 62%);
-    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(88,86,86,1) 35%, rgba(0,0,0,1) 62%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#000000",GradientType=1);
+    background: rgb(0, 0, 0);
+    background: -moz-linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(88, 86, 86, 1) 35%, rgba(0, 0, 0, 1) 62%);
+    background: -webkit-linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(88, 86, 86, 1) 35%, rgba(0, 0, 0, 1) 62%);
+    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(88, 86, 86, 1) 35%, rgba(0, 0, 0, 1) 62%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#000000", GradientType=1);
     display: grid;
     justify-content: right;
     border: 2px solid rgb(86, 83, 83);
 }
 
-.cruceta11{
+.cruceta11 {
     width: 5vh;
     height: 3vh;
 }
 
-.cruceta12{
+.cruceta12 {
     width: 5vh;
     height: 3vh;
- 
-}
-.cruceta13{
-    width: 5vh;
-    height: 3vh;
-    background: rgb(0,0,0);
+
 }
 
-.cruceta14{
+.cruceta13 {
+    width: 5vh;
+    height: 3vh;
+    background: rgb(0, 0, 0);
+}
+
+.cruceta14 {
     width: 3vh;
     height: 5vh;
 }
-.cruceta15{
+
+.cruceta15 {
     width: 5vh;
     height: 3vh;
-    background: rgb(0,0,0);
-background: -moz-linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(88,86,86,1) 35%, rgba(0,0,0,1) 62%);
-background: -webkit-linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(88,86,86,1) 35%, rgba(0,0,0,1) 62%);
-background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(88,86,86,1) 35%, rgba(0,0,0,1) 62%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#000000",GradientType=1);
+    background: rgb(0, 0, 0);
+    background: -moz-linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(88, 86, 86, 1) 35%, rgba(0, 0, 0, 1) 62%);
+    background: -webkit-linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(88, 86, 86, 1) 35%, rgba(0, 0, 0, 1) 62%);
+    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(88, 86, 86, 1) 35%, rgba(0, 0, 0, 1) 62%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#000000", GradientType=1);
     display: grid;
     justify-content: right;
     border: 2px solid rgb(86, 83, 83);
 
 }
-.cruceta16{
+
+.cruceta16 {
     width: 3.5vh;
     height: 3.5vh;
-    background: rgb(0,0,0);
-background: -moz-linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(88,86,86,1) 35%, rgba(0,0,0,1) 62%);
-background: -webkit-linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(88,86,86,1) 35%, rgba(0,0,0,1) 62%);
-background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(88,86,86,1) 35%, rgba(0,0,0,1) 62%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#000000",GradientType=1);
+    background: rgb(0, 0, 0);
+    background: -moz-linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(88, 86, 86, 1) 35%, rgba(0, 0, 0, 1) 62%);
+    background: -webkit-linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(88, 86, 86, 1) 35%, rgba(0, 0, 0, 1) 62%);
+    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(88, 86, 86, 1) 35%, rgba(0, 0, 0, 1) 62%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#000000", GradientType=1);
     display: grid;
     justify-content: center;
     border: 2px solid rgb(55, 54, 54);
     border-radius: 100%;
-    
+
 }
-.cruceta17{
+
+.cruceta17 {
     width: 5vh;
     height: 3vh;
-    background: rgb(0,0,0);
-background: -moz-linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(88,86,86,1) 35%, rgba(0,0,0,1) 62%);
-background: -webkit-linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(88,86,86,1) 35%, rgba(0,0,0,1) 62%);
-background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(88,86,86,1) 35%, rgba(0,0,0,1) 62%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#000000",GradientType=1);
-display: flex;
-align-items: center;
-border: 2px solid rgb(86, 83, 83);
-    
+    background: rgb(0, 0, 0);
+    background: -moz-linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(88, 86, 86, 1) 35%, rgba(0, 0, 0, 1) 62%);
+    background: -webkit-linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(88, 86, 86, 1) 35%, rgba(0, 0, 0, 1) 62%);
+    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(88, 86, 86, 1) 35%, rgba(0, 0, 0, 1) 62%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#000000", GradientType=1);
+    display: flex;
+    align-items: center;
+    border: 2px solid rgb(86, 83, 83);
+
 }
-.cruceta22{
+
+.cruceta22 {
     width: 3vh;
     height: 5vh;
-    background: rgb(0,0,0);
-    background: -moz-linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(88,86,86,1) 35%, rgba(0,0,0,1) 62%);
-    background: -webkit-linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(88,86,86,1) 35%, rgba(0,0,0,1) 62%);
-    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(88,86,86,1) 35%, rgba(0,0,0,1) 62%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#000000",GradientType=1);
-        display: grid;
-        justify-content: center;
-        align-items: cente; 
-        border: 2px solid rgb(86, 83, 83);
-    
+    background: rgb(0, 0, 0);
+    background: -moz-linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(88, 86, 86, 1) 35%, rgba(0, 0, 0, 1) 62%);
+    background: -webkit-linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(88, 86, 86, 1) 35%, rgba(0, 0, 0, 1) 62%);
+    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(88, 86, 86, 1) 35%, rgba(0, 0, 0, 1) 62%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#000000", GradientType=1);
+    display: grid;
+    justify-content: center;
+    align-items: cente;
+    border: 2px solid rgb(86, 83, 83);
+
 }
-
-
-
