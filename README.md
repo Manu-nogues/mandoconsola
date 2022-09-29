@@ -6,6 +6,6 @@ he creado 3 particiones, en esas 3,
 
 Particion derecha: los botones.
 
-Particion izquierda: Cruceta
+Particion izquierda: Cruceta.
 
 Particion Medio: Boton start, Boton select.
